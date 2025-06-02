@@ -4,20 +4,20 @@
 
 ### Folder - Stage 1
 - Overview Stage 1 (.md)
--- Overview
--- Learning Objectives
--- Resources (categorize by topic & include links when we can)
--- Activities (list activities and give brief descriptions)
+    - Overview
+    - Learning Objectives
+    - Resources (categorize by topic & include links when we can)
+    - Activities (list activities and give brief descriptions)
 - Stage 1, Activity (.md)
 - Stage 1, Activity (.md)
 - Stage 1, Activity (.md)
 
 ### Folder - Stage 2
 - Overview Stage 2 (.md)
--- Overview
--- Learning Objectives
--- Resources (categorize by topic & include links when we can)
--- Activities (list activities and give brief descriptions)
+    - Overview
+    - Learning Objectives
+    - Resources (categorize by topic & include links when we can)
+    - Activities (list activities and give brief descriptions)
 - Stage 2, Activity (.md)
 - Stage 2, Activity (.md)
 - Stage 2, Activity (.md)
