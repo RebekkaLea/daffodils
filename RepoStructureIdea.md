@@ -1,4 +1,4 @@
-# Repo Ideas
+# Repo Structure Idea
 ### README
 - Intro to the project, how it is structured, and how we hope it will be used
 
